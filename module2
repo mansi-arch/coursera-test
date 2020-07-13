@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>MOD 2 COURSERA</title>
+	<link rel="stylesheet" type="text/css" href="try.css">
+<head>
+</head>
+<body>
+	<h1 id="h1">Our Menu</h1>
+	<section class="col-lg-4 col-md-6 ">
+		
+		<div>
+			<section-title id="st1">Chicken</section-title>
+			
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non pellentesque nisi. Quisque accumsan ut neque a venenatis. Cras suscipit eleifend tincidunt. Sed lobortis rhoncus tortor quis faucibus.Pellentesque elit est, rutrum in nunc vitae, tempor blandit mi. Mauris in eleifend lacus, vitae consequat dolor. Nunc congue nisi nulla, a tempor neque accumsan nec. Donec quis risus ante. Quisque vel lacus erat.
+		</div>
+	</section>
+	<section class="col-lg-4 col-md-6 ">
+		<div>
+		<section-title id="st2">Beef</section-title>
+		
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non pellentesque nisi. Quisque accumsan ut neque a venenatis. Cras suscipit eleifend tincidunt. Sed lobortis rhoncus tortor quis faucibus.Pellentesque elit est, rutrum in nunc vitae, tempor blandit mi. Mauris in eleifend lacus, vitae consequat dolor. Nunc congue nisi nulla, a tempor neque accumsan nec. Donec quis risus ante. Quisque vel lacus erat.
+		</div>
+	</section>
+	<section class="col-lg-4 col-md-12">
+		<div>
+		<section-title id="st3">Sushi</section-title>
+		
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non pellentesque nisi. Quisque accumsan ut neque a venenatis. Cras suscipit eleifend tincidunt. Sed lobortis rhoncus tortor quis faucibus.Pellentesque elit est, rutrum in nunc vitae, tempor blandit mi. Mauris in eleifend lacus, vitae consequat dolor. Nunc congue nisi nulla, a tempor neque accumsan nec. Donec quis risus ante. Quisque vel lacus erat.
+		</div>
+	</section>
+	
+		
+</body>
+</html>
